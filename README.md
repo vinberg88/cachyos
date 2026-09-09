@@ -10,22 +10,36 @@ CachyOS WSL is a performance-centric Arch Linux distribution designed to deliver
 
 CachyOS WSL support many desktop from KDE Plasma, GNOME, COSMIC, XFCE, DEEPIN and more.
 
-
 <img width="1168" height="784" alt="N6ee6" src="https://github.com/user-attachments/assets/bc4321fc-b9a7-4864-84f8-7311c50a439f" />
 
-Other desktops that are done for WSL and Windows 11 - 2026
+Other desktops that are done! and ready for WSL and Windows 11 - 2026
 
-POP!_OS 24.04 LTS and diffrent desktops: https://github.com/vinberg88/pop-os-wsl
+POP!_OS 24.04 LTS and diffrent desktops to POP_OS: https://github.com/vinberg88/pop-os-wsl
 
-ParrotOS and diffrent desktops : https://github.com/vinberg88/ParrotOS
+ParrotOS and diffrent desktops to ParrotOS: https://github.com/vinberg88/ParrotOS
 
-Find ME here via GitHUB: https://github.com/vinberg88
+Find ME via GitHUB - WSL - https://github.com/vinberg88
 
 Want more for WSL and Linux and Windows 11 LOOK HERE: https://github.com/vinberg88/opensuse
 
+Why Was CachyOS Created ?
+
+CachyOS was built around a simple idea: modern hardware should be able to take advantage of modern compiler and CPU features.
+The project uses CPU-optimized builds, including x86-64-v3, x86-64-v4, and Zen4 targets where supported. Its kernel builds
+also use CPU optimizations and Link Time Optimization. CachyOS also works on kernel tuning, scheduler options, hardware
+detection, and system configuration. The project maintains several scheduler choices and provides tools intended to make
+system setup easier. The result is a distribution designed to make performance tuning part of the default experience rather
+than something you have to research and configure yourself.
+
+What Makes CachyOS Different From Arch Linux ?
+
+With Arch, you start with a minimal system and decide what belongs on it. CachyOS gives you a more
+prepared environment with performance-optimized packages, a custom kernel, hardware detection, and
+graphical installation options.
+
 -----------------------------------------------------------------------
 
-HERE I WILL PUT NEW DESKTOP. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
+HERE I WILL PUT NEW DESKTOPS FOR CATHYOS. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
 
 Commming SONE to CATCHY OS AND KDE 6.
 
@@ -33,4 +47,4 @@ Commming SONE to CATCHY OS AND KDE 6.
 
 -----------------------------------------------------------------------
 
-Regards Mattias Vinberg - Sweden - mattiasvinberg@duck.com - https://github.com/vinberg88 - 2026 
+Regards Mattias Vinberg - Sweden - mattiasvinberg@duck.com - https://github.com/vinberg88 - CATCHYOS - KDE 6
