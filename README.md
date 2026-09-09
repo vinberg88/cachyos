@@ -33,4 +33,4 @@ HERE I WILL PUT NEW DESKTOP. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
 
 -----------------------------------------------------------------------
 
-Regards Mattias Vinberg - Stockholm - Sweden - mattiasvinberg@duck.com - https://github.com/vinberg88
+Regards Mattias Vinberg - Stockholm - Sweden - Email: mattiasvinberg@duck.com - Find ME: https://github.com/vinberg88
