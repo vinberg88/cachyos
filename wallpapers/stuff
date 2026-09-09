@@ -1,6 +1,8 @@
-Find ME Here: https://github.com/vinberg88
+Find ME: https://github.com/vinberg88
 
-Mail me: Mattias Vinberg
+Mail me: mattiasvinberg@duck.com
+
+CachyOS for WSL: https://github.com/vinberg88/cachyos
 
            .-------------------------:                    Enjoy CachyOS on WSL! ARCH BASED DISTRO - KDE 6 PLASMA
           .+=========================.                    
@@ -20,7 +22,19 @@ Mail me: Mattias Vinberg
       -=======++++:::::::::::::::::::::::::-:  .---:      
        :======++++====+++******************=.             Find ME HERE - https://github.com/vinberg88
         :=====+++==========++++++++++++++*-               
-         .====++==============++++++++++*-                DOWNLOAD CachyOS here:
+         .====++==============++++++++++*-                DOWNLOAD CachyOS here: https://github.com/vinberg88/cachyos/releases
           .===+==================+++++++:                 
            .-=======================+++:                  The CachyOS name and logo are recognized trademarks - 2026
              ..........................
+
+About CachyOS for WSL - 2026 
+
+CachyOS WSL is an optimized Arch Linux distribution that works. Easy to setup and work on. Test it now.
+
+CachyOS WSL is a performance-centric Arch Linux distribution designed to deliver a stable, efficient, 
+and user-friendly computing environment. It offers the full power and flexibility of a rolling-release 
+system, enhanced by advanced optimizations and a custom toolchain that streamlines the user experience 
+for both new and experienced users.
+
+CachyOS WSL support many desktop from KDE Plasma, GNOME, COSMIC, XFCE, DEEPIN and more.
+
