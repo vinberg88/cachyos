@@ -6,7 +6,7 @@ CachyOS WSL is an optimized Arch Linux distribution that works. Easy to setup an
 
 CachyOS WSL is a performance-centric Arch Linux distribution designed to deliver a stable, efficient, and user-friendly computing environment. It offers the full power and flexibility of a rolling-release system, enhanced by advanced optimizations and a custom toolchain that streamlines the user experience for both new and experienced users.
 
-CachyOS WSL support over 17 desktop from KDE Plasma, GNOME, COSMIC, XFCE, DEEPIN and more.
+CachyOS WSL support many desktop from KDE Plasma, GNOME, COSMIC, XFCE, DEEPIN and more.
 
 Want more for WSL and Linux and Windows 11 LOOK HERE: https://github.com/vinberg88/opensuse
 
