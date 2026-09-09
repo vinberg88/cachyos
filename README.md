@@ -16,7 +16,7 @@ Want more for WSL and Linux and Windows 11 LOOK HERE: https://github.com/vinberg
 
 Other desktops that are done for WSL and Windows 11 - 2026
 
-POP!_OS 24.04 LTS and diffrent desktop: https://github.com/vinberg88/pop-os-wsl
+POP!_OS 24.04 LTS and diffrent desktops: https://github.com/vinberg88/pop-os-wsl
 
 ParrotOS and diffrent desktops : https://github.com/vinberg88/ParrotOS
 
@@ -26,15 +26,10 @@ Find ME here via GitHUB: https://github.com/vinberg88
 
 HERE I WILL PUT NEW DESKTOP. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
 
+Commming SONE to CATCHY OS AND KDE 6.
 
-
-
-
-
-
-
-
+<img width="1920" height="1080" alt="CachyOS-KDE6-2026" src="https://github.com/user-attachments/assets/b53c1cc4-969a-41dc-a5ea-2cbfc4883aae" />
 
 -----------------------------------------------------------------------
 
-Regards Mattias Vinberg - Stockholm - Sweden - Email: mattiasvinberg@duck.com - CachyOS - 2026
+Regards Mattias Vinberg - Stockholm - Sweden - mattiasvinberg@duck.com - CachyOS - https://github.com/vinberg88 - 2026 
