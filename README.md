@@ -1,4 +1,4 @@
-# CachyOS for WSL and Windows 11 - ARCH based distro that works.
+# CachyOS for WSL and Windows 11 - ARCH distro that work.
 
 On this page you will find CachyOS for WSL and guides to diffrent desktops for CachyOS - 2026
 
@@ -10,7 +10,6 @@ CachyOS WSL is a performance-centric Arch Linux distribution designed to deliver
 
 CachyOS WSL support many desktop from KDE Plasma, GNOME, COSMIC, XFCE, DEEPIN and more.
 
-Want more for WSL and Linux and Windows 11 LOOK HERE: https://github.com/vinberg88/opensuse
 
 <img width="1168" height="784" alt="N6ee6" src="https://github.com/user-attachments/assets/bc4321fc-b9a7-4864-84f8-7311c50a439f" />
 
@@ -22,6 +21,8 @@ ParrotOS and diffrent desktops : https://github.com/vinberg88/ParrotOS
 
 Find ME here via GitHUB: https://github.com/vinberg88
 
+Want more for WSL and Linux and Windows 11 LOOK HERE: https://github.com/vinberg88/opensuse
+
 -----------------------------------------------------------------------
 
 HERE I WILL PUT NEW DESKTOP. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
@@ -32,4 +33,4 @@ Commming SONE to CATCHY OS AND KDE 6.
 
 -----------------------------------------------------------------------
 
-Regards Mattias Vinberg - Stockholm - Sweden - mattiasvinberg@duck.com - CachyOS - https://github.com/vinberg88 - 2026 
+Regards Mattias Vinberg - Sweden - mattiasvinberg@duck.com - https://github.com/vinberg88 - 2026 
