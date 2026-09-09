@@ -18,6 +18,8 @@ POP!_OS 24.04 LTS and diffrent desktop: https://github.com/vinberg88/pop-os-wsl
 
 ParrotOS and diffrent desktops : https://github.com/vinberg88/ParrotOS
 
+Find ME here via GitHUB: https://github.com/vinberg88
+
 -----------------------------------------------------------------------
 
 HERE I WILL PUT NEW DESKTOP. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
@@ -33,4 +35,4 @@ HERE I WILL PUT NEW DESKTOP. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
 
 -----------------------------------------------------------------------
 
-Regards Mattias Vinberg - Stockholm - Sweden - Email: mattiasvinberg@duck.com - Find ME: https://github.com/vinberg88
+Regards Mattias Vinberg - Stockholm - Sweden - Email: mattiasvinberg@duck.com - CachyOS - 2026
