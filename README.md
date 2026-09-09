@@ -1,4 +1,4 @@
-# CachyOS for WSL and Windows 11 - ARCH distro that work.
+# CachyOS for WSL and Windows 11 - ARCH that work.
 
 On this page you will find CachyOS for WSL and guides to diffrent desktops for CachyOS - 2026
 
