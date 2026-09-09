@@ -44,6 +44,9 @@ graphical installation options.
 
 -----------------------------------------------------------------------
 
+NOTE: When you start use CachyOS for WSL, check so WSLg is on in settnings for WSL.
+
+
 HERE I WILL PUT NEW DESKTOPS FOR CATHYOS. HOW TO BUILD DESKTOP FOR CACHYOS FOR WSL.
 
 Commming SONE to CATCHY OS AND KDE 6.
