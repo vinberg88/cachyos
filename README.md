@@ -4,12 +4,12 @@ On this page you will find CachyOS for WSL and guides to diffrent desktops for C
 
 Features for CACHYOS FOR WSL.
 
-🚀 CachyOS Base - Built on CachyOS with optimized packages and performance tweaks
-🎨 Custom Branding - CachyOS icon, Windows Terminal color scheme with signature teal/cyan accents
-⚙️ systemd Support - Modern init system with properly configured services for WSL
-🔒 Secure Setup - OOBE (Out-of-Box Experience) creates user with sudo access
-📦 Pacman Package Manager - Access to Arch Linux and CachyOS repositories
-🔄 Windows Integration - Seamless interoperability with Windows
+    🚀 CachyOS Base - Built on CachyOS with optimized packages and performance tweaks
+    🎨 Custom Branding - CachyOS icon, Windows Terminal color scheme with signature teal/cyan accents
+    ⚙️ systemd Support - Modern init system with properly configured services for WSL
+    🔒 Secure Setup - OOBE (Out-of-Box Experience) creates user with sudo access
+    📦 Pacman Package Manager - Access to Arch Linux and CachyOS repositories
+    🔄 Windows Integration - Seamless interoperability with Windows
 
 Download CachyOS here for WSL - https://github.com/vinberg88/cachyos/releases
 
