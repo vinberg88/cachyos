@@ -27,13 +27,7 @@ CachyOS WSL support many desktop from KDE Plasma, GNOME, COSMIC, XFCE, DEEPIN an
 
 <img width="1168" height="784" alt="N6ee6" src="https://github.com/user-attachments/assets/bc4321fc-b9a7-4864-84f8-7311c50a439f" />
 
-Other desktops that are done! and ready for WSL and Windows 11 - 2026
-
-POP!_OS 24.04 LTS and diffrent desktops to POP_OS: https://github.com/vinberg88/pop-os-wsl
-
-ParrotOS and diffrent desktops to ParrotOS: https://github.com/vinberg88/ParrotOS
-
-Find ME via GitHUB - WSL - https://github.com/vinberg88
+Find ME via GitHUB - More desktops and WSL versions to look at https://github.com/vinberg88
 
 Want more for WSL and Linux and Windows 11 LOOK HERE: https://github.com/vinberg88/opensuse
 
